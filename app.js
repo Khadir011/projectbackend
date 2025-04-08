@@ -13,7 +13,7 @@ const {Cart} = require('./model/Cart');
 app.use(cors());
 app.use(morgan('dev'))
 app.use(express.json());
-
+inTAPwZD6XYTBafZ
 mongoose.connect('mongodb://127.0.0.1:27017/mahreenEcom')
 .then(()=>{
     console.log("db is connected")
